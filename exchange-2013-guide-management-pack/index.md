@@ -1,1 +1,3 @@
-# Welcome to OfficeDocs-Exchange-MP-Guide!
+﻿---
+redirect_url: 'exchange-server-2013-management-pack-guide'
+---
