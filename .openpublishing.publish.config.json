@@ -85,7 +85,7 @@
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
-  "need_preview_pull_request": false,
+  "need_preview_pull_request": true,
   "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
@@ -105,16 +105,8 @@
     "live": [
       "Publish",
       "Pdf"
-    ],
-	   "master": [
-     "Publish",
-     "Pdf"
     ]
   },
   "need_generate_pdf_url_template": true,
-  "targets": {
-    "pdf": {
-      "template_folder": "_themes.pdf"
-    }
-  }
+  "targets": {}
 }
